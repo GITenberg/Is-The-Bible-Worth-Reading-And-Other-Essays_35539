@@ -1,0 +1,27 @@
+_repo: Is-The-Bible-Worth-Reading-And-Other-Essays_35539
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Washburn, L. K. (Lemuel Kelley)
+    alias: Washburn, Lemuel Kelley
+    birthdate: 1846
+    deathdate: 1927
+    gutenberg_agent_id: '37738'
+    url: http://www.gutenberg.org/2009/agents/37738
+description: ''
+gutenberg_issued: '2011-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought'
+title: Is The Bible Worth Reading, and Other Essays
+url: http://www.gutenberg.org/ebooks/35539
